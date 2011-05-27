@@ -8,3 +8,4 @@ LOCAL_PACKAGE_NAME := WdtSet
 LOCAL_AAPT_FLAGS := -c mdpi,hdpi -x 10
 
 include $(BUILD_PACKAGE)
+
